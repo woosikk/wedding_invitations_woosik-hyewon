@@ -28,7 +28,7 @@ class Guide extends StatelessWidget {
           SizedBox(height: 5),
             ElevatedButton(
               onPressed: () => _launchURL(),
-              child: Text('          RSVP          '),
+              child: Text('          참석여부확인          '),
             )
         ],
       )
