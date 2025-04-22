@@ -71229,7 +71229,7 @@ break
 case 1:return A.N(q,r)}})
 return A.O($async$pd,r)},
 L(a){var s=null
-return A.cw(A.fn(A.c([A.cw(A.n1("assets/images/guide.png",B.bg),s,s,300,s,s,s),A.o3(s,5,s),A.any(A.o8("          RSVP          ",s,s,s,s,s,s,s,s,s,s,s),new A.Yp(this),s)],t.E),B.a8,B.a9),s,s,s,new A.dn(20,20,20,20),s,500)}}
+return A.cw(A.fn(A.c([A.cw(A.n1("assets/images/guide.png",B.bg),s,s,300,s,s,s),A.o3(s,5,s),A.any(A.o8("          \ucc38\uc11d\uc5ec\ubd80\ud655\uc778          ",s,s,s,s,s,s,s,s,s,s,s),new A.Yp(this),s)],t.E),B.a8,B.a9),s,s,s,new A.dn(20,20,20,20),s,500)}}
 A.Yp.prototype={
 $0(){return this.a.pd()},
 $S:0}
